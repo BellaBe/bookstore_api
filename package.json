@@ -1,0 +1,24 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BekkaBe",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "halson": "^3.0.0",
+    "mongoose": "^5.0.15",
+    "mongoose-json-select": "^0.2.1",
+    "nodemon": "^1.17.3",
+    "restify": "^7.1.1",
+    "swagger-node-restify": "^0.1.2",
+    "tv4": "^1.3.0",
+    "tv4-formats": "^3.0.3",
+    "underscore": "^1.8.3"
+  }
+}
